@@ -9,7 +9,7 @@
 ### Sobre mim
 Sou estudante de **Engenharia de Software** formado em **Técnico em Desenvolvimento de Sistemas**, com experiência profissional em suporte técnico e implantação de sistemas em ambientes SaaS.
 
-Minha trajetória na tecnologia começou pelo interesse em **redes e infraestrutura***, evoluindo posteriormente para desenvolvimento de software e suporte técnico. Atualmente, tenho maior interesse em **desenvolvimento backend, APIs, integrações, automação e infraestrutura**, buscando compreender não apenas como uma aplicação é desenvolvida, mas também como ela é integrada, executada e mantida.
+Minha trajetória na tecnologia começou pelo interesse em **redes e infraestrutura**, evoluindo posteriormente para desenvolvimento de software e suporte técnico. Atualmente, tenho maior interesse em **desenvolvimento backend, APIs, integrações, automação e infraestrutura**, buscando compreender não apenas como uma aplicação é desenvolvida, mas também como ela é integrada, executada e mantida.
 
 Tenho conhecimentos práticos em **JavaScript, Node.js, C#, SQL, MySQL, PostgreSQL, Git e Docker**, além de familiaridade com **APIs REST, HTTP, Webhooks e ferramentas de automação**.
 
